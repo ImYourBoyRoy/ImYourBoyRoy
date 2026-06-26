@@ -1,74 +1,100 @@
 <div align="center">
-  <h1>⚡ Roy Dawson IV</h1>
-  <p><strong>Systems Engineer | AI Strategist | Infrastructure Architect</strong></p>
-  <p><em>Standardizing the telemetry and extraction layers of agentic AI, with resilient defaults and strict contracts.</em></p>
 
-  <a href="https://pypi.org/project/web-scraper-toolkit/">
-    <img src="https://img.shields.io/pypi/v/web-scraper-toolkit?style=for-the-badge&logo=pypi&color=3776ab" />
-  </a>
-  <a href="https://pypi.org/project/llm-telemetry-toolkit/">
-    <img src="https://img.shields.io/pypi/v/llm-telemetry-toolkit?style=for-the-badge&logo=pypi&color=2f855a" />
-  </a>
-  <a href="https://github.com/imyourboyroy">
-    <img src="https://img.shields.io/badge/Accountability-High-ef4444?style=for-the-badge" />
-  </a>
+# ⚡ Roy Dawson IV
+
+**Human Systems Architect & AI Product Builder**
+Local-first tools, agentic AI infrastructure, automation systems, and cross-platform utilities for messy real-world workflows.
+
+[![Website](https://img.shields.io/badge/Website-ImYourBoyRoy.com-111827?style=for-the-badge)](https://imyourboyroy.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ImYourBoyRoy-181717?style=for-the-badge\&logo=github)](https://github.com/ImYourBoyRoy)
+[![PyPI](https://img.shields.io/badge/PyPI-Packages-3776AB?style=for-the-badge\&logo=pypi\&logoColor=white)](https://pypi.org/user/ImYourBoyRoy/)
+
 </div>
 
 ---
 
-## Mission
-I build systems where the weakest link is assumed to be:
-- the user
-- and now local models that are not very smart
+## What I Build
 
-So the defaults must be safe, the interface must be strict, and the system must keep moving when parts fail.
+I build practical tools for systems that are messy, local, human, operational, or hard to automate cleanly.
 
----
+My work tends to sit at the intersection of:
 
-## The Iron (Systems Infrastructure)
-High-concurrency local compute for orchestration, deep-research automation, and local inference.
+* local AI infrastructure
+* agentic workflows
+* automation tooling
+* cross-platform desktop utilities
+* owner-controlled web systems
+* structured data extraction
+* human decision and relationship systems
 
-- Dell PowerEdge T630
-- 80-core CPU, 160GB Registered DDR4
-- Dual Tesla P40 (48GB VRAM total)
-- Hybrid Windows + Ubuntu
-- Ollama-first workflow, async-first Python stacks
+The goal is not software for its own sake. The goal is less friction, better feedback loops, safer defaults, and tools people can actually own.
 
 ---
 
-## Core Architectural Focus
-Resilient, fault-tolerant tooling for messy environments and unreliable inputs.
+## Current Build Themes
 
-- Agentic telemetry: async-first observability that does not block the agent loop, with reasoning trace capture (example: `<think>`)
-- Structured extraction: strict JSON Envelopes to reduce context pollution and improve tool-call reliability
-- Resilience engineering: retries, backoff, validation, partial-result preservation, and strategy failover (including headless to visible)
+### Local-First AI and Agent Infrastructure
+
+Tools for local models, Ollama workflows, MCP-connected agents, telemetry, structured outputs, tool orchestration, and resilient automation.
+
+### Owner-Controlled Web Systems
+
+Astro, Cloudflare, portable site tooling, reusable agent skills, deployment diagnostics, and client-site workflows that do not depend on fragile vendor lock-in.
+
+### Cross-Platform Utilities
+
+Rust, Python, PowerShell, Tauri, Capacitor, Windows, Linux, macOS, Android, and practical utilities that solve real operational problems.
+
+### Human Systems Products
+
+Relationship tools, reflection systems, planning utilities, and decision-support workflows built around constraints, feedback loops, and measurable outcomes.
 
 ---
 
-## Featured Production Toolkits
-Curated entry points. Repos contain the implementation details.
+## Featured Projects
 
-- Web Scraper Toolkit (MCP-native extraction): https://github.com/imyourboyroy/WebScraperToolkit
-- LLM Telemetry Toolkit (async-first observability): https://github.com/imyourboyroy/llm-telemetry-toolkit
-- Email Toolkit (parsing + diagnostics utilities): https://github.com/imyourboyroy/emailtoolkit
-- ReqSync (repeatable Python environments): https://github.com/imyourboyroy/reqsync
+| Project                                                                                          | Focus                                                                                                           |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| [Portable Web Toolkit](https://github.com/ImYourBoyRoy/Portable_Web_toolkit)                     | Astro + Cloudflare website tooling with AI-agent skills, readiness checks, templates, and deployment workflows. |
+| [Portfolio Sidekick](https://github.com/ImYourBoyRoy/PortfolioSidekick)                          | Local-first portfolio tracking, strategy planning, prediction logging, and risk-aware trade analysis.           |
+| [pyenv-native](https://github.com/ImYourBoyRoy/pyenv-native)                                     | Native Rust-based Python version manager for Windows, Linux, and macOS with CLI, GUI, and MCP support.          |
+| [OllamaToolkit](https://github.com/ImYourBoyRoy/ollamatoolkit)                                   | Modular toolkit for building local-AI and hybrid-AI systems on top of Ollama.                                   |
+| [WebScraperToolkit](https://github.com/ImYourBoyRoy/WebScraperToolkit)                           | AI-first web scraping and extraction toolkit for agentic workflows.                                             |
+| [llm-telemetry-toolkit](https://github.com/ImYourBoyRoy/llm-telemetry-toolkit)                   | Async-first observability and telemetry patterns for LLM agents.                                                |
+| [emailtoolkit](https://github.com/ImYourBoyRoy/emailtoolkit)                                     | Email parsing, normalization, extraction, and diagnostic utilities.                                             |
+| [reqsync](https://github.com/ImYourBoyRoy/reqsync)                                               | Repeatable Python environment synchronization from installed packages.                                          |
+| [ReadyForUs](https://github.com/ImYourBoyRoy/ReadyForUs)                                         | A warm, intentional relationship-building toolkit with phased check-ins and AI reflection prompts.              |
+| [powercli-esxi-upgrade-analyzer](https://github.com/ImYourBoyRoy/powercli-esxi-upgrade-analyzer) | PowerCLI tooling for ESXi upgrade readiness analysis.                                                           |
+| [gdrive-folder-migrator](https://github.com/ImYourBoyRoy/gdrive-folder-migrator)                 | Google Drive migration utility with hierarchy preservation and validation.                                      |
 
 ---
 
-## Philosophy
-I treat software, infrastructure, and the human psyche as the same class of problem: constraints, feedback loops, and measurable outcomes.
+## Operating Philosophy
 
-- Logic-driven strategy and psycho-relational analysis
-- Active LDS, faith framed as practical and measurable benefits to the psyche
-- Biohacking without magical thinking, iterate with data
+I treat software, infrastructure, AI agents, and human workflows as systems of constraints, feedback loops, failure modes, and measurable outcomes.
+
+Good systems should be:
+
+* strict enough to be reliable
+* observable enough to debug
+* resilient enough to survive bad inputs
+* simple enough to maintain
+* useful enough to justify their complexity
+
+---
+
+## Work With Me
+
+I do selective consulting for practical AI training, automation, websites, infrastructure strategy, and custom internal tools.
+
+Start here: **[ImYourBoyRoy.com](https://imyourboyroy.com)**
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imyourboyroy&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyourboyroy&layout=compact&theme=radical&hide_border=true&count_private=true" width="42%" />
-</div>
 
-<div align="center">
-  <a href="https://pypi.org/user/ImYourBoyRoy/">PyPI</a> | <a href="https://github.com/imyourboyroy">GitHub</a>
+![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImYourBoyRoy\&show_icons=true\&theme=radical\&hide_border=true\&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImYourBoyRoy\&layout=compact\&theme=radical\&hide_border=true\&count_private=true)
+
 </div>
