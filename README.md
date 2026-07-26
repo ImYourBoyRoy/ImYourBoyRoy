@@ -55,11 +55,12 @@ Relationship tools, reflection systems, planning utilities, and decision-support
 
 | Project                                                                                          | Focus                                                                                                           |
 | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| [Agent Continuity Stack](https://github.com/ImYourBoyRoy/agent-continuity-stack)                 | Provider-neutral operating contracts, skills, project-memory standards, and lifecycle safeguards across AI coding agents. |
 | [Portable Web Toolkit](https://github.com/ImYourBoyRoy/Portable_Web_toolkit)                     | Astro + Cloudflare website tooling with AI-agent skills, readiness checks, templates, and deployment workflows. |
-| [Portfolio Sidekick](https://github.com/ImYourBoyRoy/PortfolioSidekick)                          | Local-first portfolio tracking, strategy planning, prediction logging, and risk-aware trade analysis.           |
 | [pyenv-native](https://github.com/ImYourBoyRoy/pyenv-native)                                     | Native Rust-based Python version manager for Windows, Linux, and macOS with CLI, GUI, and MCP support.          |
 | [OllamaToolkit](https://github.com/ImYourBoyRoy/ollamatoolkit)                                   | Modular toolkit for building local-AI and hybrid-AI systems on top of Ollama.                                   |
 | [WebScraperToolkit](https://github.com/ImYourBoyRoy/WebScraperToolkit)                           | AI-first web scraping and extraction toolkit for agentic workflows.                                             |
+| [Portfolio Sidekick](https://github.com/ImYourBoyRoy/PortfolioSidekick)                          | Local-first portfolio tracking, strategy planning, prediction logging, and risk-aware trade analysis.           |
 | [llm-telemetry-toolkit](https://github.com/ImYourBoyRoy/llm-telemetry-toolkit)                   | Async-first observability and telemetry patterns for LLM agents.                                                |
 | [emailtoolkit](https://github.com/ImYourBoyRoy/emailtoolkit)                                     | Email parsing, normalization, extraction, and diagnostic utilities.                                             |
 | [reqsync](https://github.com/ImYourBoyRoy/reqsync)                                               | Repeatable Python environment synchronization from installed packages.                                          |
